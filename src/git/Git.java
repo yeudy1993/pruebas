@@ -10,12 +10,14 @@ package git;
  * @author dam
  */
 public class Git {
-
-    /**
-     * @param args the command line arguments
-     */
+// verde nuevo
+    // rojo he borrado
+    //modificado
+   
     public static void main(String[] args) {
         // TODO code application logic here
+        calculadora c=new calculadora(4, 2);
+        //System.out.println(c.suma()); 
     }
     
 }
