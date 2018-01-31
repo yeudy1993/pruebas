@@ -17,5 +17,7 @@ public class calculadora {
         this.numero1 = numero1;
         this.n2 = n2;
     }
-    
+    public int suma(){
+        return numero1+n2;
+    }
 }
